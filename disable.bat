@@ -1,0 +1,1 @@
+C:\Users\Nadeem\Downloads\soundvolumeview-x64\SoundVolumeView.exe /SetListenToThisDevice "Microphone" 0
